@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="ASCII"?>
-<sgraph:Statechart xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:sgraph="http://www.yakindu.org/sct/sgraph/2.0.0"/>
+<yakindumm:Statechart xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:yakindumm="hu.bme.mit.inf.dslreasoner.domains.yakindu.sgraph"/>
